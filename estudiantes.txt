@@ -6,49 +6,18 @@
 6. Maria Victoria Higuita
 7. Andrés García Molina
 8. Luz Angely Salcedo
-<<<<<<< HEAD
-7. Andres García Molina
-8. Luz Angely Salcedo
 9. Laura Posada
-9. Paulina Zuluaga
-10. Laura Posada
-11. Ana Loaiza
-12. Andrés García Molina
+10. Paulina Zuluaga
+11. Andrés Santa
+12. Ana Loaiza
 13. Daniela Munoz
 14. Andrés Campuzano
 15. Andres Felipe
 16. Adriana Restrepo
-7. Luz Angely Salcedo
-8. Andrés García Molina
-9. Daniela Munoz
-10 Andrés Campuzano
-11. Andres Felipe
-12. Luz Angely Salcedo
-13. Laura Posada
-14. Paulina Zuluaga
-15. Laura Posada
-16. Andrés García Molina
 17. Paulina Rendon
-18. Andres Felipe
-19. Luz Angely Salcedo
-9. Laura Posada
-10.Laura Barrero
-9. Paulina Zuluaga
-10. Laura Posada
-11. Ana Loaiza
-13. Mariana Arroyave
-14. Adriana Restrepo
-15. Andres Gomez
-30. Andrés Santa
-9. Andres Felipe
-10. Luz Angely Salcedo
-11. Laura Posada
-12. Paulina Zuluaga
-13. Ana Loaiza
-14. Andrés García Molina
-15. Daniela Munoz
-16. Andrés Campuzano
-17. Andres Felipe
-18. Adriana Restrepo
-19. Andres Felipe
-20. Natalia Perez
+18. Laura Barrero
+19. Mariana Arroyave
+20. Andres Gomez
+21. Natalia Perez
+22. Andrés Felipe
+23. Manuela Gómez
