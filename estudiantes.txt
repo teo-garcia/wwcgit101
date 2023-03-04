@@ -5,8 +5,8 @@
 5. Luisa Ramirez
 6. Maria Victoria Higuita
 7. Andrés García Molina
-8. Error Prueba
 8. Luz Angely Salcedo
+<<<<<<< HEAD
 7. Andres García Molina
 8. Luz Angely Salcedo
 9. Laura Posada
@@ -40,3 +40,15 @@
 14. Adriana Restrepo
 15. Andres Gomez
 30. Andrés Santa
+9. Andres Felipe
+10. Luz Angely Salcedo
+11. Laura Posada
+12. Paulina Zuluaga
+13. Ana Loaiza
+14. Andrés García Molina
+15. Daniela Munoz
+16. Andrés Campuzano
+17. Andres Felipe
+18. Adriana Restrepo
+19. Andres Felipe
+20. Natalia Perez
