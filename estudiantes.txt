@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Mateo Garcia
 2. Alejandro Estrada
 3. Manuela Larrea 
@@ -42,3 +43,6 @@
 14. Adriana Restrepo
 15. Andres Gomez
 >>>>>>> 79d0cc525a197df9bda37a945727c9ccbf0f400f
+=======
+
+>>>>>>> f686f04346fe6c8b1bfae0eab0df4cdb2829e6b9
