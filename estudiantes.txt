@@ -1,16 +1,28 @@
 1. Mateo Garcia
 2. Alejandro Estrada
-<<<<<<< HEAD
-3. Luisa Calderon 
-=======
 3. Manuela Larrea 
 4. Juangui Ramirez
 5. Luisa Ramirez
 6. Maria Victoria Higuita
+8. Luz Angely Salcedo
+7. Andrés García Molina
+8. Daniela Munoz
 7. Andres Felipe
 8. Luz Angely Salcedo
-<<<<<<< HEAD
->>>>>>> daa03aed0e252d59026846f64fa8fe52df15098c
-=======
 9. Laura Posada
->>>>>>> 9ad0056e371e115193ce0c34ac12b948d88a4e41
+9. Laura Posada
+9. Paulina Zuluaga
+10. Laura Posada
+11. Andrés García Molina
+12. Paulina Rendon
+7. Andres Felipe
+8. Luz Angely Salcedo
+9. Laura Posada
+10.Laura Barrero
+9. Paulina Zuluaga
+10. Laura Posada
+11. Ana Loaiza
+13. Mariana Arroyave
+14. Adriana Restrepo
+15. luisa calderon
+
