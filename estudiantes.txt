@@ -13,6 +13,13 @@
 9. Paulina Zuluaga
 10. Laura Posada
 11. Ana Loaiza
+<<<<<<< HEAD
+12. Andrés García Molina
+13. Daniela Munoz
+14. Andrés Campuzano
+15. Andres Felipe
+16. Adriana Restrepo
+=======
 7. Luz Angely Salcedo
 8. Andrés García Molina
 9. Daniela Munoz
@@ -34,4 +41,3 @@
 13. Mariana Arroyave
 14. Adriana Restrepo
 15. Andres Gomez
-20. Andrés Santa
