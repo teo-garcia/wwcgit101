@@ -4,7 +4,6 @@
 4. Juangui Ramirez
 5. Luisa Ramirez
 6. Maria Victoria Higuita
-<<<<<<< HEAD
 8. Luz Angely Salcedo
 7. Andres Felipe
 8. Luz Angely Salcedo
@@ -12,7 +11,6 @@
 9. Paulina Zuluaga
 10. Laura Posada
 11. Ana Loaiza
-=======
 7. Luz Angely Salcedo
 8. Andrés García Molina
 9. Daniela Munoz
@@ -26,13 +24,10 @@
 17. Paulina Rendon
 18. Andres Felipe
 19. Luz Angely Salcedo
-<<<<<<< HEAD
 9. Laura Posada
 10.Laura Barrero
-=======
 9. Paulina Zuluaga
 10. Laura Posada
 11. Ana Loaiza
 13. Mariana Arroyave
 14. Adriana Restrepo
->>>>>>> d710c9b1755e5e64fbd82e38e9fd5c72d929ca83
