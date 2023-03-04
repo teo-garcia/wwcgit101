@@ -17,7 +17,12 @@
 12. Paulina Rendon
 7. Andres Felipe
 8. Luz Angely Salcedo
+<<<<<<< HEAD
+9. Laura Posada
+10.Laura Barrero
+=======
 9. Paulina Zuluaga
 10. Laura Posada
 11. Ana Loaiza
 13. Mariana Arroyave
+>>>>>>> d15dd7849de7373ab6aaae3fbb3e8481d32625cb
