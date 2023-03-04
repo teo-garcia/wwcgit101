@@ -1,3 +1,12 @@
 1. Mateo Garcia
 2. Alejandro Estrada
+<<<<<<< HEAD
 3. Luisa Calderon 
+=======
+3. Manuela Larrea 
+4. Juangui Ramirez
+5. Luisa Ramirez
+6. Maria Victoria Higuita
+
+8. Luz Angely Salcedo
+>>>>>>> daa03aed0e252d59026846f64fa8fe52df15098c
