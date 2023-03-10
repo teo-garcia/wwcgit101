@@ -4,44 +4,29 @@
 4. Juangui Ramirez
 5. Luisa Ramirez
 6. Maria Victoria Higuita
-7. Andrés García Molina
-8. Error Prueba
-8. Luz Angely Salcedo
 7. Andres Felipe
 8. Luz Angely Salcedo
-9. Laura Posada
 9. Paulina Zuluaga
 10. Laura Posada
 11. Ana Loaiza
 12. Andrés García Molina
 13. Daniela Munoz
 14. Andrés Campuzano
-15. Andres Felipe
-16. Adriana Restrepo
-7. Luz Angely Salcedo
-8. Andrés García Molina
-9. Daniela Munoz
-10 Andrés Campuzano
-11. Andres Felipe
-12. Luz Angely Salcedo
-13. Laura Posada
-14. Paulina Zuluaga
-15. Laura Posada
-16. Andrés García Molina
-17. Paulina Rendon
-18. Laura Barrero
-19. Mariana Arroyave
-20. Andres Gomez
-21. Natalia Perez
-22. Manuela Gómez
-23. Laura vargas
-24. Jaime Ríos Ruiz
-25. Camila Angel
-26. Luisa Calderon
-27. Brenda Bustamante
-28. Natalia Orozco lopez
-29. Jacke Vera
-30. Paula Nevado
-31. Daniela Rincon
-32. Yazmin Rios
-33. Yessica Ramirez
+15. Adriana Restrepo
+16. Paulina Rendon
+17. Laura Barrero
+18. Mariana Arroyave
+19. Andres Gomez
+20. Natalia Perez
+21. Manuela Gómez
+22. Laura vargas
+23. Jaime Ríos Ruiz
+24. Camila Angel
+25. Luisa Calderon
+26. Brenda Bustamante
+27. Natalia Orozco lopez
+28. Jacke Vera
+29. Paula Nevado
+30. Daniela Rincon
+31. Yazmin Rios
+32. Yessica Ramirez
